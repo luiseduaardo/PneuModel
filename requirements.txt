@@ -1,0 +1,8 @@
+%%writefile requirements.txt
+kaggle==1.6.17
+tensorflow==2.15.0
+pandas==2.1.4
+numpy==1.25.2
+matplotlib==3.7.1
+seaborn==0.13.1
+scikit-learn==1.2.2
